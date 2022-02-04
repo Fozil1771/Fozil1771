@@ -13,6 +13,7 @@ Skills: <p align="left" dir="auto">     <a href="https://www.w3.org/html/" rel="
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fozil1771)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fozil1771&show_icons=true)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fozil1771)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ![Profile views](https://gpvc.arturio.dev/Fozil1771)  
